@@ -38,14 +38,9 @@ The project focuses on analyzing e-commerce data to understand **sales, profit, 
 **Note:** Due to a local MySQL setup issue, the SQL queries were executed and analyzed using **Jupyter Notebook**.
 
 ### Power BI
-
  In Progress
 
-
-```
-
-### Internship
-
+ ### Internship
 **Role:** Data Analyst Intern
 **Company:** Primeor Solutions
 **Project:** E-Commerce Data Analytics Internship Project
