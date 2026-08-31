@@ -6,6 +6,7 @@ This project was completed as part of my **Data Analyst Internship at Primeor So
 The project focuses on analyzing e-commerce data to understand **sales, profit, products, regions, customers, and sales trends**.
 
 ## Tools & Technologies
+* Excel
 * Python
 * Pandas
 * NumPy
