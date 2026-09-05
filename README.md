@@ -1,4 +1,4 @@
-# E-Commerce Data Analytics
+ # E-Commerce Data Analytics Project
 
 ## Project Overview
 
