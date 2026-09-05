@@ -53,6 +53,6 @@ The project focuses on analyzing e-commerce data to understand **sales, profit, 
 * Shipping Analysis
 
  ### Internship
-**Role:** Data Analyst Intern
-**Company:** Primeor Solutions
-**Project:** E-Commerce Data Analytics Internship Project
+  1. **Role:** Data Analyst Intern
+  2. **Company:** Primeor Solutions
+  3. **Project:** E-Commerce Data Analytics Internship Project
