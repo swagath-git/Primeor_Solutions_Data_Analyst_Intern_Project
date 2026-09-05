@@ -38,8 +38,17 @@ The project focuses on analyzing e-commerce data to understand **sales, profit, 
 
 **Note:** Due to a local MySQL setup issue, the SQL queries were executed and analyzed using **Jupyter Notebook**.
 
-### Power BI
- In Progress
+## Power BI
+ ### 🔍 Key Analysis Areas
+* Sales Performance
+* Profitability Analysis
+* Product Analysis
+* Customer Analysis
+* Regional Analysis
+* Market Analysis
+* Category & Sub-Category Analysis
+* Segment Analysis
+* Shipping Analysis
 
  ### Internship
 **Role:** Data Analyst Intern
