@@ -39,6 +39,8 @@ The project focuses on analyzing e-commerce data to understand **sales, profit, 
 **Note:** Due to a local MySQL setup issue, the SQL queries were executed and analyzed using **Jupyter Notebook**.
 
 ## Power BI
+<img width="574" height="323" alt="E-commerece Dashboard" src="https://github.com/user-attachments/assets/c81414cb-7f0b-4cdf-ac6e-e273823c16a8" />
+
  ### 🔍 Key Analysis Areas
 * Sales Performance
 * Profitability Analysis
